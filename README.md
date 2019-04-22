@@ -4,9 +4,7 @@ Benchmarks for **every** pre-trained model in PyTorch and Keras-Tensorflow. Benc
 
 ## Why this is helpful
 
-Combining Keras and PyTorch benchmarks into a single framework lets researchers decide which platform is best for a given model. For example `resnet` architectures perform better in PyTorch and `inception` architectures perform better in Keras (see below). These benchmarks serve as a standard from which to start new projects or debug current implementations. 
-
-For researchers exploring Keras and PyTorch models, these benchmarks serve as a standard from which to start new projects or debug current implementations. 
+Combining Keras and PyTorch benchmarks into a single framework lets researchers decide which platform is best for a given model. For example `resnet` architectures perform better in PyTorch and `inception` architectures perform better in Keras (see below). These benchmarks serve as a standard from which to start new projects or debug current implementations.
 
 Many researchers struggle with reproducible accuracy benchmarks of pre-trained Keras (Tensorflow) models on ImageNet. Examples of issues are [here1](https://github.com/keras-team/keras/issues/10040), [here2](https://github.com/keras-team/keras/issues/10979), [here3](http://blog.datumbox.com/the-batch-normalization-layer-of-keras-is-broken/), [here4](https://github.com/keras-team/keras/issues/8672), and [here5](https://github.com/keras-team/keras/issues/7848). 
 
